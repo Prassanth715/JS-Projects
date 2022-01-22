@@ -1,0 +1,49 @@
+body{
+    background-image: url("image.jpg");
+}
+
+
+h1{
+    margin-top: 10px;
+    text-align: center;
+}
+
+h2{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+
+h3{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.container{
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+  }
+
+#inc-btn{
+    text-align: center;
+    font-size: 50px;
+    background: greenyellow;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: blueviolet;
+    margin-top: 0px;
+}
+
+#save-btn{
+    text-align: center;
+    font-size: 50px;
+    background: red;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: blueviolet;
+    margin-top: 70px;
+}
